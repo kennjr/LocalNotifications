@@ -6,8 +6,10 @@ import android.app.NotificationManager
 import android.content.Context
 import android.os.Build
 import androidx.core.content.getSystemService
+import dagger.hilt.android.HiltAndroidApp
 
 // we need this class for us to create the notification channels for our diff. notifications
+@HiltAndroidApp
 class LocalNotificationsApp: Application() {
 
     override fun onCreate() {
