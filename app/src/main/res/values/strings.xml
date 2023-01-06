@@ -3,4 +3,13 @@
     <string name="counter_notification_title">Counter Notification</string>
     <string name="increment">Increase</string>
     <string name="counter_notification_text">Counter Notification %d</string>
+    <string name="simple_notification">Simple Notification</string>
+    <string name="update_notification">Update Notification</string>
+    <string name="cancel_notification">Cancel Notification</string>
+    <string name="basic_notification_title">Basic notification Title</string>
+    <string name="basic_notification_text">condimentum mattis pellentesque id nibh tortor id aliquet lectus proin…</string>
+    <string name="details_screen">Details Screen</string>
+    <string name="progress_notification">Progress Notification</string>
+    <string name="type_msg">Type message…</string>
+    <string name="reply">Reply</string>
 </resources>
