@@ -1,4 +1,4 @@
-package com.example.localnotifications.ui.theme
+package com.example.localnotifications.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.localnotifications.ui.theme
+package com.example.localnotifications.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
