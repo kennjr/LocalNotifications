@@ -29,6 +29,8 @@
                 android:value="" />
         </activity>
         <receiver android:name="com.example.localnotifications.CounterNotificationReceiver" />
+        <receiver android:name="com.example.localnotifications.receiver.MyReceiver" />
+        <receiver android:name="com.example.localnotifications.receiver.ReplyReceiver" />
     </application>
 
 </manifest>
